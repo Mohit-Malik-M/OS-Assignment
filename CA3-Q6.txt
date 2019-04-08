@@ -1,4 +1,12 @@
-Q1).Suppose that the following processes arrive for execution at the times indicated. Each process will run for the amount of time listed. In answering the 
+NAME: PURUSHOTTAM KUMAR
+REG: 11807502
+B-TECH CSE (2ND YR) 
+OPERATING SYSTEM ASSIGNMENT
+GitHub link: https://github.com/puru531/OS-Assignment
+------------------------------------------------------------------------------------------
+
+
+Q6).Suppose that the following processes arrive for execution at the times indicated. Each process will run for the amount of time listed. In answering the 
 questions, use nonpreemptive scheduling, and base all decisions on the information you have at the time the decision must be made.
 Process Arrival Time Burst Time
 P1 	0.0 		8
